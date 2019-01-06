@@ -18,7 +18,7 @@ b.
 1. Click the actions tab
 2. Click New 
 3. In the Program/script: box enter where you have python installed.
-    get this by running python -c "import sys; print(sys.executable") in the command line
+    get this by running python -c "import sys; print(sys.executable")" in the command line
 4. For the arguments give the name of the file i.e. Set_Desktop.py
 5. For the Start in give the name of the directory where the file is located.
     i.e. c:\users\your_name\documents\
